@@ -2,6 +2,14 @@
 
 This is a simple web-based text editor application developed as part of the Web Application Development course assignment.
 
+
+## 👩‍💻 Student Info
+
+- **Name**: U.G.K.A. Madhubhashi  
+- **Student ID**: 2023t01880
+
+  
+
 ## ✨ Features
 
 - Bold
@@ -10,13 +18,7 @@ This is a simple web-based text editor application developed as part of the Web 
 - Font Color Picker
 - Text Alignment (Left, Center, Right, Justify)
 - Undo / Redo
-
-
-
-## 👩‍💻 Student Info
-
-- **Name**: U.G.K.A. Madhubhashi  
-- **Student ID**: 2023t01880
+  
 
 ## 🔗 Live Application
 
