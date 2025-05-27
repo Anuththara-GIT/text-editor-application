@@ -12,6 +12,7 @@ This is a simple web-based text editor application developed as part of the Web 
 - Undo / Redo
 
 
+
 ## 👩‍💻 Student Info
 
 - **Name**: U.G.K.A. Madhubhashi  
@@ -19,9 +20,6 @@ This is a simple web-based text editor application developed as part of the Web 
 
 ## 🔗 Live Application
 
-> https://anuththara-git.github.io/text-editor-application/
+> [https://anuththara-git.github.io/text-editor-application/](https://anuththara-git.github.io/text-editor-application/)  
 
-## 📂 Repository URL
-
-> [https://github.com/your-username/text-editor-application](https://github.com/your-username/text-editor-application)  
 
